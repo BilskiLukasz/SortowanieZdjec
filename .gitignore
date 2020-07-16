@@ -1,5 +1,7 @@
-# Compiled class file
-*.class
+.idea
+target
+pom.xml
+sort_Files.iml
 
 # Log file
 *.log
